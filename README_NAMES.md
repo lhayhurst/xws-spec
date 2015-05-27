@@ -107,6 +107,7 @@ Carlist Rieekan | carlistrieekan
 Chewbacca | chewbacca
 Darth Vader | darthvader
 Dash Rendar | dashrendar
+Emperor Palpatine | emperorpalpatine
 Fleet Officer | fleetofficer
 Flight Instructor | flightinstructor
 Grand Moff Tarkin | grandmofftarkin
